@@ -3,12 +3,30 @@
     <title>Web-Test</title>
     <link href="https://demiiju.github.io/Web-test/feed.xml" rel="self" />
     <link href="https://demiiju.github.io/Web-test" />
-    <updated>2022-07-03T12:16:36+07:00</updated>
+    <updated>2022-07-04T12:33:13+07:00</updated>
     <author>
         <name>demiiju</name>
     </author>
     <id>https://demiiju.github.io/Web-test</id>
 
+    <entry>
+        <title>Test Lottie</title>
+        <author>
+            <name>demiiju</name>
+        </author>
+        <link href="https://demiiju.github.io/Web-test/test-lottie-2/"/>
+        <id>https://demiiju.github.io/Web-test/test-lottie-2/</id>
+
+        <updated>2022-07-04T12:33:13+07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p>
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Loop Cat Dancing</title>
         <author>

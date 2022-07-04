@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://demiiju.github.io/Web-test/test-lottie-2/",
+            "url": "https://demiiju.github.io/Web-test/test-lottie-2/",
+            "title": "Test Lottie",
+            "content_html": "<p>\n<script src=\"https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js\"></script>\n</p>",
+            "author": {
+                "name": "demiiju"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-04T12:26:22+07:00",
+            "date_modified": "2022-07-04T12:33:13+07:00"
+        },
+        {
             "id": "https://demiiju.github.io/Web-test/cat-dancing/",
             "url": "https://demiiju.github.io/Web-test/cat-dancing/",
             "title": "Loop Cat Dancing",
