@@ -10,17 +10,17 @@
     },
     "items": [
         {
-            "id": "https://demiiju.github.io/Web-test/test-lottie-2/",
-            "url": "https://demiiju.github.io/Web-test/test-lottie-2/",
+            "id": "https://demiiju.github.io/Web-test/test/",
+            "url": "https://demiiju.github.io/Web-test/test/",
             "title": "Test Lottie",
-            "content_html": "<p>\n<script src=\"https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js\"></script>\n</p>",
+            "content_html": "<div align=\"center\">\n<script src=\"https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js\"></script>\n<lottie-player src=\"https://assets1.lottiefiles.com/packages/lf20_le0m7wa9.json\"  background=\"transparent\"  speed=\"1\"  style=\"width: 512px; height: 400px;\"  loop autoplay></lottie-player>",
             "author": {
                 "name": "demiiju"
             },
             "tags": [
             ],
-            "date_published": "2022-07-04T12:26:22+07:00",
-            "date_modified": "2022-07-04T12:33:13+07:00"
+            "date_published": "2022-07-04T14:39:25+07:00",
+            "date_modified": "2022-07-04T14:42:05+07:00"
         },
         {
             "id": "https://demiiju.github.io/Web-test/cat-dancing/",
