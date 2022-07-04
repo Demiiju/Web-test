@@ -5,6 +5,10 @@
 <loc>https://demiiju.github.io/demo/</loc>
 </url>
 <url>
+<loc>https://demiiju.github.io/demo/block-edit/</loc>
+<lastmod>2022-07-04T21:15:04+07:00</lastmod>
+</url>
+<url>
 <loc>https://demiiju.github.io/demo/cat-dancing/</loc>
 <lastmod>2022-07-03T12:16:36+07:00</lastmod>
 </url>
@@ -15,10 +19,6 @@
 <image:loc>https://demiiju.github.io/demo/media\posts\2/gallery/Box-color-thumbnail.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
-</url>
-<url>
-<loc>https://demiiju.github.io/demo/test/</loc>
-<lastmod>2022-07-04T20:44:35+07:00</lastmod>
 </url>
 <url>
 <loc>https://demiiju.github.io/demo/this-is-a-test-post/</loc>
