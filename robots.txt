@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://demiiju.github.io/Web-test/sitemap.xml
