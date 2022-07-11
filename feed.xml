@@ -3,12 +3,30 @@
     <title>demo</title>
     <link href="https://demiiju.github.io/demo/feed.xml" rel="self" />
     <link href="https://demiiju.github.io/demo" />
-    <updated>2022-07-04T21:15:04+07:00</updated>
+    <updated>2022-07-10T15:19:01+07:00</updated>
     <author>
         <name>demiiju</name>
     </author>
     <id>https://demiiju.github.io/demo</id>
 
+    <entry>
+        <title>Lottie 2 Test</title>
+        <author>
+            <name>demiiju</name>
+        </author>
+        <link href="https://demiiju.github.io/demo/lottie-2-test/"/>
+        <id>https://demiiju.github.io/demo/lottie-2-test/</id>
+
+        <updated>2022-07-10T15:19:01+07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div><lottie-player src="https://assets1.lottiefiles.com/datafiles/HN7OcWNnoqje6iXIiZdWzKxvLIbfeCGTmvXmEm1h/data.json" 
+ background="transparent"  speed="1"  style="width: 600px; height: 600px;" 
+  loop controls autoplay></lottie-player></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Lottie Via Block Editor</title>
         <author>
@@ -17,7 +35,7 @@
         <link href="https://demiiju.github.io/demo/block-edit/"/>
         <id>https://demiiju.github.io/demo/block-edit/</id>
 
-        <updated>2022-07-04T21:15:04+07:00</updated>
+        <updated>2022-07-10T15:10:28+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[

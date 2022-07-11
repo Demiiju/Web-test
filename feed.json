@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://demiiju.github.io/demo/lottie-2-test/",
+            "url": "https://demiiju.github.io/demo/lottie-2-test/",
+            "title": "Lottie 2 Test",
+            "content_html": "<div><lottie-player src=\"https://assets1.lottiefiles.com/datafiles/HN7OcWNnoqje6iXIiZdWzKxvLIbfeCGTmvXmEm1h/data.json\" \n background=\"transparent\"  speed=\"1\"  style=\"width: 600px; height: 600px;\" \n  loop controls autoplay></lottie-player></div>",
+            "author": {
+                "name": "demiiju"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-10T15:16:34+07:00",
+            "date_modified": "2022-07-10T15:19:01+07:00"
+        },
+        {
             "id": "https://demiiju.github.io/demo/block-edit/",
             "url": "https://demiiju.github.io/demo/block-edit/",
             "title": "Lottie Via Block Editor",
@@ -20,7 +33,7 @@
             "tags": [
             ],
             "date_published": "2022-07-04T20:54:35+07:00",
-            "date_modified": "2022-07-04T21:15:04+07:00"
+            "date_modified": "2022-07-10T15:10:28+07:00"
         },
         {
             "id": "https://demiiju.github.io/demo/cat-dancing/",
