@@ -13,14 +13,14 @@
             "id": "https://deumiij.github.io/demo/lottie-2-test/",
             "url": "https://deumiij.github.io/demo/lottie-2-test/",
             "title": "Lottie 2 Test",
-            "content_html": "<div><lottie-player src=\"https://assets1.lottiefiles.com/datafiles/HN7OcWNnoqje6iXIiZdWzKxvLIbfeCGTmvXmEm1h/data.json\" \n background=\"transparent\"  speed=\"1\"  style=\"width: 600px; height: 600px;\" \n  loop controls autoplay></lottie-player></div>",
+            "content_html": "<div><div align=\"center\"> \n<lottie-player src=\"https://assets1.lottiefiles.com/datafiles/HN7OcWNnoqje6iXIiZdWzKxvLIbfeCGTmvXmEm1h/data.json\" \n background=\"transparent\"  speed=\"1\"  style=\"width: 100%; height: 20%;\" \n  loop controls autoplay></lottie-player>\n</div></div>\n\n  <p>\n    \n  </p>",
             "author": {
                 "name": "demiiju"
             },
             "tags": [
             ],
             "date_published": "2022-07-10T15:16:34+07:00",
-            "date_modified": "2022-07-10T15:19:01+07:00"
+            "date_modified": "2022-07-13T21:33:23+07:00"
         },
         {
             "id": "https://deumiij.github.io/demo/block-edit/",
